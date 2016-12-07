@@ -1,6 +1,6 @@
-# Spark
+# Big Data
 
-Big Data handling with Spark
+Big Data handling with ELK Stack
 
 ## Authors
 
