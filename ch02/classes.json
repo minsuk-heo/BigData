@@ -1,0 +1,48 @@
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "1" } }
+{"title" : "Machine Learning","Professor" : "Minsuk Heo","major" : "Computer Science","semester" : ["spring", "fall"],"student_count" : 100,"unit" : 3,"rating" : 5, "submit_date" : "2016-01-02", "school_location" : {"lat" : 36.00, "lon" : -120.00}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "2" } }
+{"title" : "Network","Professor" : "Minsuk Heo","major" : "Computer Science","semester" : ["fall"],"student_count" : 50,"unit" : 3,"rating" : 4, "submit_date" : "2016-02-02", "school_location" : {"lat" : 36.00, "lon" : -120.00}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "3" } }
+{"title" : "Operating System","Professor" : "Minsuk Heo","major" : "Computer Science","semester" : ["spring"],"student_count" : 50,"unit" : 3,"rating" : 4, "submit_date" : "2016-03-02", "school_location" : {"lat" : 36.00, "lon" : -120.00}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "5" } }
+{"title" : "Machine Learning","Professor" : "Tim Cook","major" : "Computer Science","semester" : ["spring"],"student_count" : 40,"unit" : 3,"rating" : 2, "submit_date" : "2016-04-02", "school_location" : {"lat" : 39.00, "lon" : -112.00}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "6" } }
+{"title" : "Network","Professor" : "Tim Cook","major" : "Computer Science","semester" : ["summer"],"student_count" : 30,"unit" : 3,"rating" : 2, "submit_date" : "2016-02-02", "school_location" : {"lat" : 36.00, "lon" : -120.00}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "7" } }
+{"title" : "Operating System","Professor" : "Jeniffer Anderson","major" : "Computer Science","semester" : ["winter"],"student_count" : 30,"unit" : 3,"rating" : 1, "submit_date" : "2016-11-02", "school_location" : {"lat" : 39.97, "lon" : -89.78}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "8" } }
+{"title" : "Algorithm","Professor" : "Tim Cook","major" : "Computer Science","semester" : ["fall"],"student_count" : 80,"unit" : 3,"rating" : 2, "submit_date" : "2016-10-22", "school_location" : {"lat" : 39.97, "lon" : -89.78}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "9" } }
+{"title" : "Data Structure","Professor" : "Tim Cook","major" : "Computer Science","semester" : ["winter"],"student_count" : 50,"unit" : 3,"rating" : 2, "submit_date" : "2016-07-22", "school_location" : {"lat" : 39.97, "lon" : -89.78}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "10" } }
+{"title" : "Computer Graphic","Professor" : "Jeniffer Anderson","major" : "Computer Science","semester" : ["spring"],"student_count" : 60,"unit" : 2,"rating" : 3, "submit_date" : "2016-11-12", "school_location" : {"lat" : 39.97, "lon" : -89.78}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "11" } }
+{"title" : "Music Fundamental","Professor" : "Jay Z","major" : "Music","semester" : ["fall"],"student_count" : 100,"unit" : 3,"rating" : 5, "submit_date" : "2016-05-22", "school_location" : {"lat" : 42.51, "lon" : -74.83}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "12" } }
+{"title" : "Vocal Techniques","Professor" : "Beyonce","major" : "Music","semester" : ["fall"],"student_count" : 30,"unit" : 3,"rating" : 5, "submit_date" : "2016-11-22", "school_location" : {"lat" : 42.51, "lon" : -74.83}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "13" } }
+{"title" : "Guitar Techiniques","Professor" : "Eric Clapton","major" : "Music","semester" : ["spring", "fall"],"student_count" : 20,"unit" : 2,"rating" : 4, "submit_date" : "2016-03-12", "school_location" : {"lat" : 42.51, "lon" : -74.83}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "14" } }
+{"title" : "Finance","Professor" : "Bill Gates","major" : "Accounting","semester" : ["winter"],"student_count" : 50,"unit" : 3,"rating" : 2, "submit_date" : "2016-01-12", "school_location" : {"lat" : 42.51, "lon" : -74.83}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "15" } }
+{"title" : "Marketing","Professor" : "Bill Gates","major" : "Accounting","semester" : ["spring"],"student_count" : 60,"unit" : 2,"rating" : 3, "submit_date" : "2016-01-22", "school_location" : {"lat" : 42.51, "lon" : -74.83}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "16" } }
+{"title" : "Accounting Information Systems","Professor" : "Tom Cruise","major" : "Accounting","semester" : ["fall"],"student_count" : 100,"unit" : 2,"rating" : 1, "submit_date" : "2016-11-12", "school_location" : {"lat" : 42.51, "lon" : -74.83}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "17" } }
+{"title" : "Individual Taxation","Professor" : "Tom Cruise","major" : "Accounting","semester" : ["fall"],"student_count" : 30,"unit" : 1,"rating" : 2, "submit_date" : "2016-08-02", "school_location" : {"lat" : 42.32, "lon" : -94.74}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "18" } }
+{"title" : "Auditing","Professor" : "Victoria Park","major" : "Accounting","semester" : ["spring", "fall"],"student_count" : 20,"unit" : 2,"rating" : 3, "submit_date" : "2016-09-13", "school_location" : {"lat" : 42.32, "lon" : -94.74}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "19" } }
+{"title" : "Cell Biology","Professor" : "Anjella Kim","major" : "Medical","semester" : ["fall"],"student_count" : 40,"unit" : 5,"rating" : 5, "submit_date" : "2016-02-22", "school_location" : {"lat" : 42.32, "lon" : -94.74}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "20" } }
+{"title" : "Physiology","Professor" : "Jack Berk","major" : "Medical","semester" : ["summer"],"student_count" : 30,"unit" : 5,"rating" : 4, "submit_date" : "2016-11-12", "school_location" : {"lat" : 32.69, "lon" : -99.44}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "21" } }
+{"title" : "Neuroscience","Professor" : "Jihee Yang","major" : "Medical","semester" : ["spring", "fall"],"student_count" : 20,"unit" : 5,"rating" : 4, "submit_date" : "2016-06-03", "school_location" : {"lat" : 32.69, "lon" : -99.44}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "22" } }
+{"title" : "Immunology","Professor" : "Meredith Lee","major" : "Medical","semester" : ["winter"],"student_count" : 30,"unit" : 3,"rating" : 2, "submit_date" : "2016-06-21", "school_location" : {"lat" : 32.69, "lon" : -99.44}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "23" } }
+{"title" : "Genetics","Professor" : "David Pollack","major" : "Medical","semester" : ["spring"],"student_count" : 20,"unit" : 3,"rating" : 3, "submit_date" : "2016-06-30", "school_location" : {"lat" : 28.22, "lon" : -81.87}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "24" } }
+{"title" : "Biochemistry","Professor" : "John Miller","major" : "Medical","semester" : ["fall"],"student_count" : 30,"unit" : 3,"rating" : 4, "submit_date" : "2016-01-11", "school_location" : {"lat" : 28.22, "lon" : -81.87}}
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "25" } }
+{"title" : "Anatomy","Professor" : "Tom Johnson","major" : "Medical","semester" : ["fall"],"student_count" : 30,"unit" : 5,"rating" : 3, "submit_date" : "2016-11-12", "school_location" : {"lat" : 28.22, "lon" : -81.87}}
