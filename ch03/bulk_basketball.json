@@ -1,0 +1,32 @@
+{ "index" : { "_index" : "basketball", "_type" : "record", "_id" : "1" } }
+{"team" : "Golden States Warriors","name" : "Stephen Curry", "points" : 30,"rebounds" : 3,"assists" : 4, "blocks" : 5, "submit_date" : "2016-10-11"}
+{ "index" : { "_index" : "basketball", "_type" : "record", "_id" : "2" } }
+{"team" : "Golden States Warriors","name" : "Stephen Curry","points" : 32,"rebounds" : 5,"assists" : 8, "blocks" : 5, "submit_date" : "2016-10-13"}
+{ "index" : { "_index" : "basketball", "_type" : "record", "_id" : "3" } }
+{"team" : "Golden States Warriors","name" : "Stephen Curry","points" : 28,"rebounds" : 2,"assists" : 3, "blocks" : 1, "submit_date" : "2016-10-17"}
+{ "index" : { "_index" : "basketball", "_type" : "record", "_id" : "4" } }
+{"team" : "Golden States Warriors","name" : "Stephen Curry","points" : 36,"rebounds" : 1,"assists" : 2, "blocks" : 1, "submit_date" : "2016-11-20"}
+{ "index" : { "_index" : "basketball", "_type" : "record", "_id" : "5" } }
+{"team" : "Golden States Warriors","name" : "Stephen Curry","points" : 36,"rebounds" : 1,"assists" : 2, "blocks" : 1, "submit_date" : "2016-11-25"}
+{ "index" : { "_index" : "basketball", "_type" : "record", "_id" : "6" } }
+{"team" : "Golden States Warriors","name" : "Stephen Curry","points" : 32,"rebounds" : 1,"assists" : 4, "blocks" : 1, "submit_date" : "2016-11-28"}
+{ "index" : { "_index" : "basketball", "_type" : "record", "_id" : "7" } }
+{"team" : "Utah Jazz","name" : "Rudy Gobert", "points" : 3,"rebounds" : 11,"assists" : 4, "blocks" : 7, "submit_date" : "2016-10-12"}
+{ "index" : { "_index" : "basketball", "_type" : "record", "_id" : "8" } }
+{"team" : "Utah Jazz","name" : "Rudy Gobert","points" : 4,"rebounds" : 13,"assists" : 8, "blocks" : 5, "submit_date" : "2016-10-14"}
+{ "index" : { "_index" : "basketball", "_type" : "record", "_id" : "9" } }
+{"team" : "Utah Jazz","name" : "Rudy Gobert","points" : 8,"rebounds" : 10,"assists" : 3, "blocks" : 6, "submit_date" : "2016-10-18"}
+{ "index" : { "_index" : "basketball", "_type" : "record", "_id" : "10" } }
+{"team" : "Utah Jazz","name" : "Rudy Gobert","points" : 12,"rebounds" : 9,"assists" : 2, "blocks" : 6, "submit_date" : "2016-11-10"}
+{ "index" : { "_index" : "basketball", "_type" : "record", "_id" : "11" } }
+{"team" : "Utah Jazz","name" : "Rudy Gobert","points" : 12,"rebounds" : 14,"assists" : 2, "blocks" : 7, "submit_date" : "2016-11-22"}
+{ "index" : { "_index" : "basketball", "_type" : "record", "_id" : "12" } }
+{"team" : "Utah Jazz","name" : "Rudy Gobert","points" : 8,"rebounds" : 10,"assists" : 4, "blocks" : 5, "submit_date" : "2016-11-27"}
+{ "index" : { "_index" : "basketball", "_type" : "record", "_id" : "13" } }
+{"team" : "Washington Wizards","name" : "John Wall","points" : 8,"rebounds" : 1,"assists" : 13, "blocks" : 2, "submit_date" : "2016-10-18"}
+{ "index" : { "_index" : "basketball", "_type" : "record", "_id" : "14" } }
+{"team" : "Washington Wizards","name" : "John Wall","points" : 13,"rebounds" : 2,"assists" : 12, "blocks" : 3, "submit_date" : "2016-11-10"}
+{ "index" : { "_index" : "basketball", "_type" : "record", "_id" : "15" } }
+{"team" : "Washington Wizards","name" : "John Wall","points" : 15,"rebounds" : 3,"assists" : 12, "blocks" : 3, "submit_date" : "2016-11-22"}
+{ "index" : { "_index" : "basketball", "_type" : "record", "_id" : "16" } }
+{"team" : "Washington Wizards","name" : "John Wall","points" : 22,"rebounds" : 4,"assists" : 14, "blocks" : 3, "submit_date" : "2016-11-27"}

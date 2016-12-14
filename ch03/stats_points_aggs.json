@@ -1,0 +1,10 @@
+{
+	"size" : 0,
+	"aggs" : {
+		"stats_score" : {
+			"stats" : {
+				"field" : "points"
+			}
+		}
+	}
+}

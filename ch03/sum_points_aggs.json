@@ -1,0 +1,10 @@
+{
+	"size" : 0,
+	"aggs" : {
+		"sum_score" : {
+			"sum" : {
+				"field" : "points"
+			}
+		}
+	}
+}
