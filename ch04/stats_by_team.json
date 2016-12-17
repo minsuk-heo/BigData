@@ -1,0 +1,17 @@
+{
+	"size" : 0,
+	"aggs" : {
+		"team_stats" : {
+			"terms" : {
+				"field" : "team"
+			},
+			"aggs" : {
+				"stats_score" : {
+					"stats" : {
+						"field" : "points"
+					}
+				}
+			}
+		}
+	}
+}

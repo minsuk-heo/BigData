@@ -1,0 +1,10 @@
+{
+	"size" : 0,
+	"aggs" : {
+		"players" : {
+			"terms" : {
+				"field" : "team"
+			}
+		}
+	}
+}

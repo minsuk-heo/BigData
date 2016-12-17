@@ -1,0 +1,30 @@
+{
+	"record" : {
+		"properties" : {
+			"team" : {
+				"type" : "string",
+				"fielddata" : true
+			},
+			"name" : {
+				"type" : "string",
+				"fielddata" : true
+			},
+			"points" : {
+				"type" : "long"
+			},
+			"rebounds" : {
+				"type" : "long"
+			},
+			"assists" : {
+				"type" : "long"
+			},
+			"blocks" : {
+				"type" : "long"
+			},
+			"submit_date" : {
+				"type" : "date",
+				"format" : "yyyy-MM-dd"
+			}
+		}
+	}
+}
