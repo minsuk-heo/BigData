@@ -1,4 +1,4 @@
-{ "index" : { "_index" : "classes", "_type" : "computer_science", "_id" : "1" } }
+{ "index" : { "_index" : "classes", "_type" : "class", "_id" : "1" } }
 {"title" : "Machine Learning","Professor" : "Minsuk Heo","major" : "Computer Science","semester" : ["spring", "fall"],"student_count" : 100,"unit" : 3,"rating" : 5, "submit_date" : "2016-01-02", "school_location" : {"lat" : 36.00, "lon" : -120.00}}
 { "index" : { "_index" : "classes", "_type" : "class", "_id" : "2" } }
 {"title" : "Network","Professor" : "Minsuk Heo","major" : "Computer Science","semester" : ["fall"],"student_count" : 50,"unit" : 3,"rating" : 4, "submit_date" : "2016-02-02", "school_location" : {"lat" : 36.00, "lon" : -120.00}}
