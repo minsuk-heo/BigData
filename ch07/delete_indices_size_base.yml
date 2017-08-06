@@ -1,0 +1,42 @@
+---
+actions:
+  1:
+    action: delete_indices
+    description: >-
+      Delete indices matching the prefix filebeat in excess of
+      300GB of data (75% of 400GB) , starting with the oldest indices, based on index creation_date.
+      An empty index list (from no indices being in excess of the size limit, for
+      example) will not generate an error.
+    options:
+      ignore_empty_list: True
+      timeout_override: 300
+      continue_if_exception: False
+      disable_action: False
+    filters:
+    - filtertype: pattern
+      kind: prefix
+      value: filebeat-
+    - filtertype: space
+      disk_space: 300
+      use_age: True
+      source: creation_date
+  2:
+    action: delete_indices
+    description: >-
+      Delete indices matching the prefix tomcat in excess of
+      300GB of data (75% of 400GB) , starting with the oldest indices, based on index creation_date.
+      An empty index list (from no indices being in excess of the size limit, for
+      example) will not generate an error.
+    options:
+      ignore_empty_list: True
+      timeout_override: 300
+      continue_if_exception: False
+      disable_action: False
+    filters:
+    - filtertype: pattern
+      kind: prefix
+      value: tomcat-
+    - filtertype: space
+      disk_space: 300
+      use_age: True
+      source: creation_date
