@@ -1,0 +1,7 @@
+SHELL=/bin/bash
+PATH=/sbin:/bin:/usr/sbin:/usr/bin
+HOME=/
+
+# daily
+0 0 * * * ec2-user /usr/local/bin/curator /home/ec2-user/delete_indices_size_base.yml --config /home/ec2-user/curator.yml > /home/ec2-user/log/curator_purging_time_base.log 2>&1
+0 0 * * * ec2-user /usr/local/bin/curator /home/ec2-user/delete_indices_size_base.yml --config /home/ec2-user/curator.yml > /home/ec2-user/log/curator_purging_size_base.log 2>&1
