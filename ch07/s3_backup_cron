@@ -3,4 +3,4 @@ PATH=/sbin:/bin:/usr/sbin:/usr/bin
 HOME=/
 
 # daily
-* * * * * ec2-user /home/ec2-user/daily_elk_backup.sh > /home/ec2-user/log/elk_backup.log 2>&1
+0 0 * * * ec2-user /home/ec2-user/daily_elk_backup.sh > /home/ec2-user/log/elk_backup.log 2>&1
